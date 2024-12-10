@@ -12,4 +12,4 @@ Events:
 
 [UCL Linguistics Autumn School 2023](https://sites.google.com/view/ucllinguisticsautumnschool2023/)
 
-[UCL Linguistics Short Courses 2024](https://ucl-linguistics-short-course.github.io/2024/)
+[UCL Linguistics Short Courses 24/25](https://ucl-linguistics-short-course.github.io/2024/)
