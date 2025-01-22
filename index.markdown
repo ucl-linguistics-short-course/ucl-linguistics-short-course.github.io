@@ -2,11 +2,11 @@
 layout: page
 ---
 
-We are a short training programme for students of all levels with a goal of introducing students to a broad range of topics in linguistics. 
+We are a short training program, organized by UCL Linguistics PhD students, aimed at introducing students of all levels to a broad range of linguistics topics.
 
-These 5-week courses are free to attend and open to everyone. Whether you're accompanying your MA studies or just looking to dive deeper into these fascinating areas, we've got you covered.
+These 5-week courses are free to attend and open to everyone. Whether you're accompanying your studies or just looking to dive deeper into these fascinating areas, we've got you covered.
 
-[Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdJmVKQm9bETLU6RAODyuLENwe0F2uR38JHgN2UsOZ8UOU8bQ/viewform?usp=sf_link) to stay updated. 
+[Join our mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdJmVKQm9bETLU6RAODyuLENwe0F2uR38JHgN2UsOZ8UOU8bQ/viewform?usp=sf_link) to stay updated!
 
 Events:
 
