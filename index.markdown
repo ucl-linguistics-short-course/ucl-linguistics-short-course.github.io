@@ -10,6 +10,9 @@ These 5-week courses are free to attend and open to everyone. Whether you're acc
 
 Events:
 
-[UCL Linguistics Autumn School 2023](https://sites.google.com/view/ucllinguisticsautumnschool2023/)
+[UCL Linguistics Short Courses 25/26](https://ucl-linguistics-short-course.github.io/2025/)
 
 [UCL Linguistics Short Courses 24/25](https://ucl-linguistics-short-course.github.io/2024/)
+
+[UCL Linguistics Autumn School 2023](https://sites.google.com/view/ucllinguisticsautumnschool2023/)
+
